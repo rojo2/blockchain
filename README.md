@@ -28,4 +28,10 @@ const BlockChain = require("blockchain");
 const blockChain = BlockChain.parse(fs.readFileSync("blockchain.json", "utf-8"));
 ```
 
+## Thanks to
+
+[Gerald Nash](https://dev.to/aunyks) for his 
+[great article](https://dev.to/aunyks/lets-build-the-tiniest-blockchain) 
+on this topic
+
 Made with :heart: by [ROJO 2](http://rojo2.com)
