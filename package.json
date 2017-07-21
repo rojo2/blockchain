@@ -1,0 +1,19 @@
+{
+  "name": "rojo2-blockchain",
+  "version": "1.0.0",
+  "description": "Blockchain PoC",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha --require chai-register --recursive test"
+  },
+  "keywords": [
+    "blockchain"
+  ],
+  "author": "ROJO 2 <hola@rojo2.com> (http://rojo2.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "chai-register": "0.0.1",
+    "mocha": "^3.4.2"
+  }
+}
